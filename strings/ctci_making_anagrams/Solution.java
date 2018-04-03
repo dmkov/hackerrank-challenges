@@ -5,7 +5,7 @@ import java.util.Map;
 import java.util.Scanner;
 
 /**
- Arrays: Left Rotation
+ Strings: Making Anagrams
  https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem
 
  Given two strings, a and b, that may or may not be of the same length,
