@@ -1,4 +1,4 @@
-package search.binary.ctci_ice_cream_parlor;
+package search.ctci_ice_cream_parlor;
 
 import java.util.ArrayList;
 import java.util.Arrays;
