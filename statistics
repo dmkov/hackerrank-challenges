@@ -4,11 +4,13 @@ May 2019:
 #15 - sock-merchant, counting-valleys
 #16 - jumping-on-the-clouds, repeated-string, 2d-array, ctci-array-left-rotation
 #17 - minimum-swaps-2, new-year-chaos
-#20 - crush (array manipulation)
+#20 - crush (array manipulation), ctci-ransom-note
+#21 - two-strings, sherlock-and-anagrams
 
 Done with help:
 new-year-chaos - did not understand the idea of bribing and that only people in front should be check
 crush (array manipulation) - did not find the idea of adding and subtracting value in the array
+sherlock-and-anagrams - did not think about the solution with sorting array of substrings. at the end did not understand the adding of total values
 
 Done by myself but need attention:
 repeated-string - 'modulo' and optimization
