@@ -7,6 +7,8 @@ May 2019:
 20 - crush (array manipulation), ctci-ransom-note
 21 - two-strings, sherlock-and-anagrams
 22 - ctci-bubble-sort, mark-and-toys, alternating-characters, ctci-making-anagrams
+29 - ctci-ice-cream-parlor
+30 - swap-nodes-algo
 
 Done with help:
 new-year-chaos - did not understand the idea of bribing and that only people in front should be check
@@ -16,4 +18,5 @@ sherlock-and-anagrams - did not think about the solution with sorting array of s
 Done by myself but need attention:
 repeated-string - 'modulo' and optimization
 minimum-swaps-2 - had idea of sorting at the beginning but moved from it because of simplicity and no possibility to check results
+swap-nodes-algo - did mistake with k->maxDepth iteration. simply use (node.depth % k == 0)
 
