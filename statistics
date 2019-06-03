@@ -10,10 +10,14 @@ May 2019:
 29 - ctci-ice-cream-parlor
 30 - swap-nodes-algo
 
+June 2019
+3 - minimum-time-required
+
 Done with help:
 new-year-chaos - did not understand the idea of bribing and that only people in front should be check
 crush (array manipulation) - did not find the idea of adding and subtracting value in the array
 sherlock-and-anagrams - did not think about the solution with sorting array of substrings. at the end did not understand the adding of total values
+minimum-time-required - did not think about possible solution with a simple checking result by iterating
 
 Done by myself but need attention:
 repeated-string - 'modulo' and optimization
