@@ -12,6 +12,7 @@ May 2019:
 
 June 2019
 3 - minimum-time-required
+6 - balanced-brackets
 
 Done with help:
 new-year-chaos - did not understand the idea of bribing and that only people in front should be check
@@ -23,4 +24,5 @@ Done by myself but need attention:
 repeated-string - 'modulo' and optimization
 minimum-swaps-2 - had idea of sorting at the beginning but moved from it because of simplicity and no possibility to check results
 swap-nodes-algo - did mistake with k->maxDepth iteration. simply use (node.depth % k == 0)
+balanced-brackets - forgot about checking the length of the stack at the end and did not pass all test cases
 
